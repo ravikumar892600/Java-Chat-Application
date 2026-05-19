@@ -1,2 +1,2 @@
 # Java-Chat-Application
-Java real-time chatting application
+Real-time chat application using Java Socket Programming and Swing GUI
